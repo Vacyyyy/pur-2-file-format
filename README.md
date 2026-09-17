@@ -39,6 +39,11 @@ meaning still needs investigation.
 
 ## Install
 
+A browser-compatible, read-only TypeScript port is also available. See the
+[TypeScript reader](typescript/README.md) for building, SQLite engine injection,
+typed rows/variants, and cross-language fixture tests. The Python implementation
+below remains the writer and reference implementation.
+
 Python 3.11+ with SQLite serialization support is required.
 
 ```sh

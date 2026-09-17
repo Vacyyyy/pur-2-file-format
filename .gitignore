@@ -5,6 +5,7 @@ __pycache__/
 build/
 dist/
 .pytest_cache/
+node_modules/
 
 # Machine-specific settings and raw runtime logs remain local.
 investigation/*.ini
